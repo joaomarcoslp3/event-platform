@@ -1,4 +1,4 @@
 export * from './Header'
 export * from './Lesson'
-export * from './Player'
+export * from './Video'
 export * from './Sidebar'
